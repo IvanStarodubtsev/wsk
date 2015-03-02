@@ -1,0 +1,2 @@
+# wsk
+wise shell kit
