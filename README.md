@@ -1,4 +1,4 @@
-![Logo](https://github.com/IvanStarodubtsev/wsk/blob/master/wsk-logo.png)
+![WSK-Logo](https://github.com/IvanStarodubtsev/wsk/blob/master/wsk-logo.png)
 
 # wsk
 wise shell kit
@@ -8,3 +8,5 @@ simple & powerful set of useful alises/functions/scrips etc. for shell usage [pr
 basic system requirements:
  - linux
  - bash
+
+hoo-hoo
