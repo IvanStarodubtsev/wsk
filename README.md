@@ -1,4 +1,4 @@
-![Logo](https://github.com/IvanStarodubtsev/wsk/edit/master/wsk-logo.png)
+![Logo](https://github.com/IvanStarodubtsev/wsk/blob/master/wsk-logo.png)
 
 # wsk
 wise shell kit
